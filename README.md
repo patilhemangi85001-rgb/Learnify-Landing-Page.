@@ -28,7 +28,7 @@ Learnify is a modern landing page design for an online learning platform, create
 
 🔗 Figma Design Link
 
-https://www.figma.com/design/eEKWRWfzU5WNnZNIBb2mNf/Learnify--Final-Submission?node-id=0-1&t=B4Ahu4eLWIHDJZ68-1
+https://www.figma.com/design/eEKWRWfzU5WNnZNIBb2mNf/Learnify--Final-Submission?node-id=0-1&t=w9TyqerYLmDDoL3s-1
 
 🚀 Project Goal
 
